@@ -42,22 +42,6 @@ This project is useful for:
 | Flask | Web application |
 | CNN Model | Food image classification |
 
-# 📂 Project Structure
-FoodCaloriesFinder/
-│
-├── __pycache__/
-│
-├── README.md
-├── app.py
-├── calories.py
-├── check_data.py
-├── requirements.txt
-├── test_model.py
-├── train_model.py
-├── train_model_v2.py
-└── train_small_data.py
-
-
 # 📖 File Description
 
 ### `app.py`
